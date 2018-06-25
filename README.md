@@ -16,7 +16,7 @@ yarn start <filename.ts>
 ## Runing tests
 
 ```shell
-Yarn test
+yarn test
 ```
 
 ## License
