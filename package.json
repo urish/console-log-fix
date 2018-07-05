@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@phenomnomnominal/tsquery": "^2.0.0-beta.4",
+    "@phenomnomnominal/tsquery": "^2.0.0-beta.5",
     "typescript": "^2.9.2"
   },
   "devDependencies": {
